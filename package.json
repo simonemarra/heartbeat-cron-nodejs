@@ -1,0 +1,15 @@
+{
+  "name": "cronheartbeatnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "heartbeat-cron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1"
+  }
+}
